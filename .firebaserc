@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "your-to-do-list---webapp",
+    "production": "your-simple-to-do-list"
+  },
+  "targets": {}
+}
